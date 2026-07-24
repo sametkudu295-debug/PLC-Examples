@@ -1,0 +1,1 @@
+Periyodik kesme uygulaması.
